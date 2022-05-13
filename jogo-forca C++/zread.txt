@@ -1,0 +1,20 @@
+/*
+PT/BR
+Esse foi um dos meus primeiros projetos em C++, realizado em meados de 2018.
+De lá para cá muito foi aprendido, inclusive a como versionar um projeto de forma descente, algo que como podemos ver não aconteceu neste projeto. hehe
+
+Apesar disso, aprendi muito realizando este projeto, acho que por ser um dos meus primeiros foi um dos mais legais, por isso aqui estou compartilhando.
+
+Espero que de alguma maneira isso seja útil. 
+Até breve! :)
+
+----------------------------------------------------------------
+
+EN/US
+*Disclaimer*
+
+The project was all done in PT/BR, so I won't translate it to EN/US, but if in doubt, open an issue.
+I'll be happy to help you.
+
+See you soon! :)
+*/
