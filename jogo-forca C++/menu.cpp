@@ -1,3 +1,4 @@
+/* menu do joguinho */
 #include <iostream>
 #include <locale.h>
 using namespace std;
@@ -9,14 +10,14 @@ int main(){
 	cout<<"\n*                *";
 	cout<<"\n*     Menu       *";
 	cout<<"\n*                *";
-	cout<<"\n* 1 - Jogar      *\n* 2 - Instruções * \n* 3 - Creditos   *"; 
+	cout<<"\n* 1 - Jogar      *\n* 2 - Instruï¿½ï¿½es * \n* 3 - Creditos   *"; 
 	cout<<"\n*                *";
 	cout<<"\n******************";
 	cout<<"\n";
 	cin>>tst; //Leitura de variavel
 	
 		if (tst==1){
-			cout<<"Você deseja iniciar o jogo? (S- Sim ou N- Não)\n";
+			cout<<"Vocï¿½ deseja iniciar o jogo? (S- Sim ou N- Nï¿½o)\n";
 			char op;
 			cin>>op;
 			switch (op){
@@ -25,7 +26,7 @@ int main(){
 				break;
 					
 				case 'n':
-					cout<<"O jogo será finalizado";
+					cout<<"O jogo serï¿½ finalizado";
 					system ("exit");
 				break;		
 				}
@@ -34,10 +35,10 @@ int main(){
 			
 		else if (tst==2){
 			system ("cls");
-			cout<<"\nO jogo da forca é um jogo em que o jogador tem que acertar qual é a palavra proposta,";
-			cout<<"\ntendo como dica o número de letras e o tema ligado à palavra. ";
+			cout<<"\nO jogo da forca ï¿½ um jogo em que o jogador tem que acertar qual ï¿½ a palavra proposta,";
+			cout<<"\ntendo como dica o nï¿½mero de letras e o tema ligado ï¿½ palavra. ";
 			cout<<"\nO jogo termina ou com o acerto da palavra ou com o jogador ''sendo do enforcado''.\n";
-			cout<<"\nDeseja voltar ao menu? (S- Sim ou N- Não) ";
+			cout<<"\nDeseja voltar ao menu? (S- Sim ou N- Nï¿½o) ";
 			char menu;
 			cin>>menu;
 			switch (menu){

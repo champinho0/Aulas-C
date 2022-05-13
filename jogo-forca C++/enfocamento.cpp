@@ -1,3 +1,4 @@
+/* Forca a ser exibida */
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
